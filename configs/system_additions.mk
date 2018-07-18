@@ -52,11 +52,7 @@ PRODUCT_PACKAGES += \
 
 # Packages
 PRODUCT_PACKAGES += \
-    GBoardDarkTheme 
-# Packages
-PRODUCT_PACKAGES += \
-    GBoardDarkTheme 
-    
+    GBoardDarkTheme  
 
 PRODUCT_PACKAGES += \
     SettingsDarkTheme \
