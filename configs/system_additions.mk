@@ -68,7 +68,9 @@ PRODUCT_PACKAGES += \
     DialerThemeChocolate \
     SystemDarkTheme 
 PRODUCT_PACKAGES += \
-    SystemUIDarkTheme
+    SystemUIDarkTheme \
+    ZeroZero \
+    Bl4ckAndYell0
 
 # Overlays
 PRODUCT_PACKAGES += \
@@ -92,10 +94,10 @@ PRODUCT_PACKAGES += \
     RedAccent \
     TealAccent \
     YellowAccent \
-    WhiteAccent
-    # Fonts
+    WhiteAccent 
     
     
+ # Fonts   
 PRODUCT_PACKAGES += \
     CustomFonts  
 
